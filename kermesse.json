@@ -1,0 +1,19 @@
+{
+	"Comisiones": [
+		"Propaganda",
+		"Juegos",
+		"Difusion",
+		"Limpieza",
+		"Musica",
+		"Decoracion",
+		"Premios"
+	],
+	"Representantes": [
+		"Roberto S de Propaganda",
+		"Salvador de Juegos y Limpieza",
+		"Luis A de Difusion",
+		"Gonzalo de Musica",
+		"Franco de Decoracion",
+		"Marcelo de Premios"
+	]
+}
